@@ -6,6 +6,6 @@ Installation: just download HTML file and open it in VS code or drag to browser.
 
 Usage: Shows the relation between Java Script and DOM.
 
-Support: reach me at linkdien @varshakhare or varsha.khare@yahoo.com
+Roadmap of future improvements: I plan to improve more and creating a  Pacman eating ghost. I plan to add Ghosts image and when pacman chomps, it shouls try to eat Ghosts.
 
 License information: They are licensed by MIT. 
